@@ -1,0 +1,4 @@
+psycopg2==2.9.9
+fastapi==0.109.2
+pydantic==2.6.1
+fastapi.middleware==0.1.0
